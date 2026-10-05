@@ -3,8 +3,10 @@
 
 int main() {
     float a,b; //kullanıcının gireceği iki ondalıklı sayı (float=ondalıklı sayı)
-    scanf("%f",&a); //kullanıcıdan bir sayı al ve a'ya kaydet
-    scanf("%f",&b); //kullanıcıdan bir sayı al ve b'ye kaydet
+    scanf("%f",&a);
+    if //kullanıcıdan bir sayı al ve a'ya kaydet
+    scanf("%f",&b); 
+    if//kullanıcıdan bir sayı al ve b'ye kaydet
 
       //dört işlemin sonucunu virgülden sonra 2 basamakla yazdır
     printf("toplam:%.2f\n", a+b);
